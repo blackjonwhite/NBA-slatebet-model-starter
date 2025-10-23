@@ -1,0 +1,19 @@
+# data + artifacts
+data/
+src/data/
+
+# environments & local tools
+.venv/
+.venv*/
+__pycache__/
+*.pyc
+
+# secrets
+.env
+*.env
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
